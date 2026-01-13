@@ -13,3 +13,9 @@ My approach to digital security is built on a three-phase process:
 3. **Secure:** Implementation, monitoring, and incident response readiness.
 
 ---
+
+## 🚀 Key Projects
+* **Secure Flask Web App:** A web application featuring Google OAuth login, OTP-based protection, and AES encryption to defend against common web attacks.
+* **OWASP ZAP Vulnerability Scanner:** A Python-based tool utilizing the OWASP ZAP API to automate web application scanning and reporting.
+* **DDoS & Brute-Force Monitor:** A network monitoring tool designed to detect and mitigate real-time traffic threats using automated firewall rules.
+* **Flipkart Real-Time Scraper:** A data extraction tool built with Playwright and BeautifulSoup to analyze e-commerce product details.
